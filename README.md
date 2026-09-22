@@ -1,5 +1,3 @@
-# Archie Portfolio Website
+# starter portfolio example
 
-## About the Project
 
-### The website includes information about me as a Computer Science student at Metropolitan State University of Denver, along with my skills, experience, and programming projects.
