@@ -1,13 +1,5 @@
-# Web Starter Project: Git + GitHub + VSCode.dev
+# Archie Portfolio Website
 
-This is a basic HTML project for learning version control.
+## About the Project
 
-## Instructions
-1. Fork this repo to your own GitHub account.
-2. Open it in [https://vscode.dev](https://vscode.dev).
-3. Edit `index.html` by adding your name instead of my inside of p tags <p>This is my first web page using version control with Git and GitHub.</p>
-4. Commit your changes.
-5. Push back to GitHub.
-6. Enable GitHub Pages in the repository settings.
-
-Enjoy learning!
+### The website includes information about me as a Computer Science student at Metropolitan State University of Denver, along with my skills, experience, and programming projects.
